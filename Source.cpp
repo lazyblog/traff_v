@@ -15,7 +15,7 @@ int main()
  {
 	 
 	std::cout << "Using OpenCV " << CV_MAJOR_VERSION << "." << CV_MINOR_VERSION << "." << CV_SUBMINOR_VERSION << std::endl;
-
+cout<<"hello";
 
 	 //Mat image;
 	 //image = imread("lena.jpg", CV_LOAD_IMAGE_COLOR); // Read the file
